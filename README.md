@@ -11,7 +11,6 @@ MOGI is an AI-powered location analysis and comparison application leveraging Op
 ### 🗺️ Location Analysis
 - **Detailed Area Reviews**: Comprehensive evaluations in terms of safety, transportation, education, healthcare, and social amenities
 - **Map Integration**: Visual exploration and discovery of areas
-- **Location Search**: Search by address, district, or region name
 - **Saving & History**: Save favorite locations and track recently viewed locations
 
 ### 🤖 AI Assistant
