@@ -56,7 +56,7 @@ void main() {
       // Varsayılan değerleri kontrol et
       expect(profile, isNotNull);
       expect(profile!.name, equals('Mogi User'));
-      expect(profile.city, equals('Paris'));
+      expect(profile.city, equals('İstanbul'));
     });
 
     test('updateProfile should update profile data', () async {
@@ -113,7 +113,7 @@ void main() {
       final resetProfile = await profileService.getProfile();
       expect(resetProfile, isNotNull);
       expect(resetProfile!.name, equals('Mogi User'));
-      expect(resetProfile.city, equals('Paris'));
+      expect(resetProfile.city, equals('İstanbul'));
     });
 
     test('getProfile should handle errors gracefully', () async {

@@ -27,7 +27,7 @@ class ProfileService {
       if (_box.isEmpty) {
         await _box.put('user', ProfileModel(
           name: 'Mogi User',
-          city: 'Paris',
+          city: 'İstanbul',
         ));
       }
       
@@ -122,7 +122,7 @@ class ProfileService {
     try {
       await _box.put('user', ProfileModel(
         name: 'Mogi User',
-        city: 'Paris',
+        city: 'İstanbul',
       ));
       return true; // Başarılı işlem
     } catch (e) {
