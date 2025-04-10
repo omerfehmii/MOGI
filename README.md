@@ -6,26 +6,26 @@
 
 MOGI is an AI-powered location analysis and comparison application leveraging OpenAI's advanced language models. It provides users with detailed information, comparisons, and personalized recommendations about areas they want to move to.
 
-## 📱 App Features
+## App Features
 
-### 🗺️ Location Analysis
+### Location Analysis
 - **Detailed Area Reviews**: Comprehensive evaluations in terms of safety, transportation, education, healthcare, and social amenities
 - **Map Integration**: Visual exploration and discovery of areas
 - **Saving & History**: Save favorite locations and track recently viewed locations
 
-### 🤖 AI Assistant
+### AI Assistant
 - **OpenAI (GPT-4o-mini) Integration**: Comprehensive answers to natural language questions via advanced language models
 - **Quick Questions**: Fast access to pre-prepared, most frequently asked questions
 - **Personalized Recommendations**: Smart suggestions based on user preferences and past interactions
 - **Chat History**: Storage and later access to all conversations
 
-### 📊 Location Comparison
+### Location Comparison
 - **Multi-Location Comparison**: Compare up to three locations simultaneously
 - **Comparison History**: Save completed comparisons for future reference
 - **Detailed Analysis Reports**: Analysis of strengths and weaknesses of compared locations
 - **AI-Powered Evaluation**: Comprehensive comparison results generated with artificial intelligence
 
-### 💎 Premium Features
+### Premium Features
 - **Mogi Points**: Virtual currency that can be used for premium features
 - **Subscription Options**: Weekly and monthly premium subscription plans
 - **Unlimited Access**: Unlimited AI chat and location comparison for premium users
@@ -119,7 +119,7 @@ MAPTILER_API_KEY=your_maptiler_api_key_here
 flutter run
 ```
 
-## 🛠️ Development
+## Development
 
 ### Project Structure
 ```
@@ -148,10 +148,10 @@ lib/
 3. Add necessary models, services, and UI components
 4. Integrate into the main application
 
-## 📝 License
+## License
 This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Developer
+## Developer
 Developed by an individual developer.
 
 ## 📌 Contact
